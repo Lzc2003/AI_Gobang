@@ -46,6 +46,7 @@ while(cap.isOpened() and flag!=3):
         # 按下'q'就退出
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
+            
     # 释放画面
 cap.release()
 cv2.destroyAllWindows()
