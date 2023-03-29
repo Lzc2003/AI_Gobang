@@ -18,10 +18,14 @@
                 测试程序：，mytest.py            
 
 在使用之前，请确保你正常安装yolov8相关配置，以下为相关链接
+
 yolo8仓库：https://github.com/ultralytics/ultralytics
+
 yolov8使用文档：https://docs.ultralytics.com/
 
+
 如何制作自己的训练集：https://blog.csdn.net/sunchanglan151/article/details/116855746
+
 实现步骤：
     1.在five.yaml中配置相关参数：ultralytics-main/ultralytics/datasets/data/five.yaml
     2.在mytrain.py中配置相关参数：ultralytics-main/mytrain.py
