@@ -547,7 +547,6 @@ class AI:
             score /= 2
 
         return score
-
     # 判断指定位置处在指定方向上是我方子、对方子、空
     def _get_stone_color(self, point, x_offset, y_offset, next):
         x = point.X + x_offset
