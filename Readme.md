@@ -2,8 +2,7 @@
                 主要运行程序：mypredite.py
                 训练参数配置程序：myfive.yaml
                 训练程序：mytrain.py
-                测试程序：，mytest.py
-                
+                测试程序：，mytest.py            
 
 在使用之前，请确保你正常安装yolov8相关配置，以下为相关链接
 yolo8仓库：https://github.com/ultralytics/ultralytics
