@@ -2,7 +2,7 @@
  * 串口节点，订阅cmd_vel话题并发布odometry话题
  * 从cmd_vel话题中分解出速度值通过串口送到移动底盘
  * 从底盘串口接收里程消息整合到odometry话题用于发布
- * 
+ * zhichao Li
  * *******************************/
 #include <ros/ros.h>
 #include <serial/serial.h>
